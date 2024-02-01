@@ -1,5 +1,5 @@
 # Compositional Split Generation for CLIP-R Precision Evaluations
-Implementation of compositional split generation according to [Benchmark for Compositional Text-to-Image Synthesis](https://openreview.net/pdf?id=bKBhQhPeKaF). 
+Implementation of compositional split generation according to [Benchmark for Compositional Text-to-Image Synthesis](https://openreview.net/pdf?id=bKBhQhPeKaF). To run this against your custom caption dataset, you'll need to do some basic editing around how to read captions from your dataset. You can find a comment that reads 'CONFIG HERE' in the code at all the places where the code needs to be altered. 
 
 Below is an excerpt on Compositional Split Generation from the Benchmark paper where CLIP-R precision was introduced.
 
